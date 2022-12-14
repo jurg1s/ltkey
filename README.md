@@ -1,3 +1,3 @@
 # alternative Lithuanian keyboard layout
 
-script made for Autohotkey software
+script made for AutoHotKey software (Windows)
